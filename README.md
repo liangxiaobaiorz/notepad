@@ -75,20 +75,6 @@ initial
         builder.setView(view).create().show();
 
     }
-## 二.功能演示
-### 1>基本功能
-#### 1.notepad的主界面</br>
-<img width="500" height="750" src="https://github.com/Incredible-May/NotePadMay/blob/master/image/notepad%E4%B8%BB%E7%95%8C%E9%9D%A2.png">
 
-#### 2.添加便签</br>
-<img width="500" height="750" src="https://github.com/Incredible-May/NotePadMay/blob/master/image/%E6%B7%BB%E5%8A%A0%E4%BE%BF%E7%AD%BE.png">
-
-#### 3.点击搜索</br>
-<img width="500" height="750" src="https://github.com/Incredible-May/NotePadMay/blob/master/image/%E7%82%B9%E5%87%BB%E6%90%9C%E7%B4%A2.png">
-
-
-### 2>扩展功能
-#### 1.改变后的界面
-<img width="500" height="750" src="https://github.com/Incredible-May/NotePadMay/blob/master/image/%E6%94%B9%E5%8F%98%E8%83%8C%E6%99%AF%E8%89%B2.png">
 
 
